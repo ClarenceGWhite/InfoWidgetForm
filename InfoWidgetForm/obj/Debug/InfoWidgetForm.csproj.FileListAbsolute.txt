@@ -1,0 +1,14 @@
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\bin\Debug\InfoWidgetForm.exe.config
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\bin\Debug\InfoWidgetForm.exe
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\bin\Debug\InfoWidgetForm.pdb
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.csproj.AssemblyReference.cache
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.Form1.resources
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.Properties.Resources.resources
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.csproj.GenerateResource.cache
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.csproj.CoreCompileInputs.cache
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.exe
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.pdb
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cgwhi\repos\InfoWidgetForm\InfoWidgetForm\obj\Debug\InfoWidgetForm.csproj.CopyComplete
