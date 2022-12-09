@@ -29,25 +29,13 @@ namespace InfoWidgetForm
         static void Main()
         {
             
-
-                 
-
-            
             Application.EnableVisualStyles();
-            //Application.DoEvents();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.DoEvents();
+            //This is the point at which FORM 1 appears.
             Application.Run(new Form1());
             Application.DoEvents();
 
-            //var btcURL = "https://api.coindesk.com/v1/bpi/currentprice.json";
-            //var btcResponse = client.GetStringAsync(btcURL).Result;
-            //var quoteTime = JObject.Parse(btcResponse)["time"]["updated"].ToString();
-            //var btcQuote = Convert.ToDouble(JObject.Parse(btcResponse)["bpi"]["USD"]["rate"].ToString());
-            //btcQuote = System.Math.Round(btcQuote, 2);
-            //var bitcoinQuote1 = Convert.ToString($"The current price of Bitcoin is: ${btcQuote} as of {quoteTime}");
-
-            //return bitcoinQuote1;
+            
 
 
 
